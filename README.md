@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi! I'm Vera Phipps.
+
+I'm a career-transitioning full stack developer with 12 years of relevant business and financial experience. 
+  
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white0e76a8)](https://www.linkedin.com/in/vera-phipps/)
+[![](https://img.shields.io/badge/web-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=yellow)](https://veraphipps01.github.io/) 
+
 
 <!--
 **veraphipps01/veraphipps01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
