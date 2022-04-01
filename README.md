@@ -1,6 +1,6 @@
-### Hi! I'm Vera Phipps.
+### Hi! I'm Vera Phipps 
 
-I'm a career-transitioning full stack developer with 12 years of relevant business and financial experience. 
+I'm a career-transitioning full stack developer with 12 years of relevant business and financial experience, 🇺🇦 living in SoCal.
   
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&logoColor=white0e76a8)](https://www.linkedin.com/in/vera-phipps/)
 [![](https://img.shields.io/badge/web-%23D14836.svg?&style=for-the-badge&logo=web&logoColor=white&color=<yellow>)](https://veraphipps01.github.io/) 
