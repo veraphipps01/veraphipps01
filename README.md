@@ -6,7 +6,8 @@ I’m interested in the fields of machine learning, artificial intelligence, neu
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&logoColor=white0e76a8)](https://www.linkedin.com/in/vera-phipps/)
 [![](https://img.shields.io/badge/web-%23D14836.svg?&style=for-the-badge&logo=web&logoColor=white&color=<yellow>)](https://veraphipps01.github.io/) 
 
-__
+
+___________________________________________________________________________________________________________________________________________________________
 
 ### My Stack:
 ##### Front End: JavaScript | REACT | HTML | CSS | Bootstrap
@@ -16,5 +17,3 @@ __
 ##### Other Technologies: REST APIs Babel | Git | JSON
 ##### Methodologies: Agile Development | Scrum Practices
 
-My Website: http://veraphipps.com/<br/>
-My GitHub: https://github.com/veraphipps01
