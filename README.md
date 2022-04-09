@@ -1,4 +1,4 @@
-### Hi! I'm Vera Phipps 
+### Hi! I'm Vera Phipps 🇺🇦 
 
 I am a full stack software engineer in training with MIT xPro, with a background is in finance and investment banking. I'm enthusiastic about creating dynamic and interactive applications and evolving them to fit the needs and wants of the users. 
 I’m interested in the fields of machine learning, artificial intelligence, neural nets, so my next planed step would be learning Python. 
